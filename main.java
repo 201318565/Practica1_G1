@@ -5,3 +5,4 @@ public int factorial (double numero) {
   else
 	  return numero * factorial(numero-1);
 }
+
